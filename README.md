@@ -2,6 +2,7 @@
 The following lines describe the project (JetBrains Academy). The text is taken from: https://hyperskill.org/projects/39
 
 Stage 1/4: Simplest estimation
+
 Description
 Ever wondered how to assess if the text is hard or easy to read? For a human, this task is pretty simple: you just read the text and feel if you're struggling or not. But how to teach a computer do that? In this project, you will write such a program.
 
@@ -11,6 +12,7 @@ The input contains a single line of text. Output "HARD" if the text is hard to r
 
 
 Stage 2/4: Words and sentences
+
 Description
 However, a real text may be pretty long and still easy to read, right? There needs to be another approach. How about calculating the number of words in each sentence? Clearly, if each sentence of a text contains a lot of words, this text is hard to read.
 
@@ -23,6 +25,7 @@ For example, the first example contains two sentences with 6 and 10 words (numbe
 Don't forget that sentences can end with a full stop as well as with an exclamation mark and a question mark. But the last sentence can be with or without a punctuation mark at the end.
 
 Stage 3/4: Score!
+
 Description
 In this stage, you will program the Automated readability index. It was introduced in 1968 and a lot of research works rely on this. The index is calculated by the following formula:
 
@@ -51,6 +54,7 @@ The number of characters is any visible symbol (so, in the real text it's everyt
 Notice, that the text can contain multiple lines, not just a single line like in the previous stages. You should analyze all the lines.
 
 Stage 4/4: More parameters
+
 Description
 In this stage, you should implement various other scientific approaches to calculate a readability score.
 
